@@ -8,7 +8,7 @@ The playable application uses only the Java standard library. Gameplay art is or
 
 ![Starfall Survival: two-heart start beside the ship, resource inventory, objectives and ship radar](docs/images/gameplay.png)
 
-## Quick test for the professor
+## Quick test 
 
 1. Have **Java 21** installed on a desktop computer (Windows, macOS or Linux with a graphical desktop). Check it with `java -version`.
 2. [Download the ready-to-run game](https://github.com/NastyPotion/Aetheria-Starfall-Survival/releases/latest/download/AetheriaCrashLandings.jar).
