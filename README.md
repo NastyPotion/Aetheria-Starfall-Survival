@@ -4,7 +4,7 @@ A Java 21 survival adventure with three champions, three difficulty settings and
 
 Carried diamonds are cargo at risk. They count only after you return to the ship and deposit them. Death loses loose resources, while banked diamonds, achievements and crafted equipment remain. At every completed level you choose whether to stay and explore or advance.
 
-The playable application uses only the Java standard library. Gameplay art is original procedural Java2D; one included AI-generated illustration provides the title backdrop. Sounds are synthesized in Java. No third-party engine, database, service, Python or JavaScript runtime is needed to play.
+The playable application uses only the Java standard library. Gameplay art is original procedural Java2D. Sounds are synthesized in Java. No third-party engine, database, service, Python or JavaScript runtime is needed to play.
 
 ![Starfall Survival: two-heart start beside the ship, resource inventory, objectives and ship radar](docs/images/gameplay.png)
 
