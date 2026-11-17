@@ -156,10 +156,6 @@ The report keeps separate source-backed sections for all eleven assessed OOP con
 | `effects` / `audio` | Finite event feedback and bounded background synthesis/playback |
 | `persistence` | Immutable v3 snapshots, campaign storage interface and recoverable checked errors |
 
-Swing's event thread owns live gameplay. File workers receive immutable snapshots, and a bounded daemon worker owns the audio device. Document-export utilities are preparation tools, separate from the executable Java game.
 
-## Design for the oral examination
 
-The three champion choices use one `Champion` class configured by `ChampionType`. Inheritance is reserved for the enemy family, where flying, pursuit and melee attacks have different behaviour. All declared instance fields are private. `GameSession.update()` names the main stages of a game tick, and `SaveRepository` describes just saving and loading a campaign.
 
-Start with the report and oral guide. The earlier exhaustive reference and previous submission are retained under `backup/before-oop-simplification` for local history and are excluded from the submission. Optional `tools/java/com/game/art/ArtGallery.java` exports art previews; it is outside the playable source tree. The game contains 45 production Java files, including the original graphics and sound implementation.
