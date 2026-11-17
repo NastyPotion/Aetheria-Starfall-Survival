@@ -6,3 +6,15 @@
 *.log
 __pycache__/
 *.py[cod]
+/AGENTS.md
+/build.ps1
+/test.ps1
+/package.ps1
+/output/
+/tools/
+/docs/*
+!/docs/USER_GUIDE.md
+!/docs/DEVELOPMENT.md
+!/docs/ART_DIRECTION.md
+!/docs/TITLE_ART_PROMPT.txt
+!/docs/images/
