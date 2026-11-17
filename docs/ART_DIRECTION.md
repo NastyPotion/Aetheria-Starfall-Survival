@@ -10,11 +10,6 @@ Five regions share four terrain styles: Starfall Glade, Verdant Grove, Tidal Gar
 
 Some historical asset filenames remain internal aliases. They resolve to the original generated artwork rather than borrowed character images.
 
-## AI-generated title illustration
-
-The [title background](../src/art/starfall-title.png) was created with an AI image-generation tool. The exact prompt is preserved in [TITLE_ART_PROMPT.txt](TITLE_ART_PROMPT.txt).
-
-It depicts an alien valley, explorer and shuttle. Java adds the title, menu text and controls over the image. The prompt uses the earlier working title, Starfall Protocol; the illustration itself contains no title text. This is a bundled static image, so playing requires no image-generation service or network connection.
 
 ## Sound
 
